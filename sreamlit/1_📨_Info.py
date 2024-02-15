@@ -40,15 +40,7 @@ visibility: hidden;
 """
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
-a1,a2,a3 = st.columns(3)
-with a3:
-     st.image('https://sse.army.gr/wp-content/uploads/elementor/thumbs/sse_en_logo-pvh1jhk17xxcl49pxmyn10qj924wmd181s1j3yc8ri.png', width=300)
-
-with a2:
-     st.image('http://sse-tuc.edu.gr/image/company_logo?img_id=10717&t=1424654776935')
-
-with a1:
-     st.image('https://www.tuc.gr/typo3conf/ext/tucmmforumhook/Resources/Public/Initialtemplates/templates/bootstrap/imgs/logo.png')
+st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/logo.jpg?raw=true')
 
 
 st.markdown('# ΔΠΜΣ')
