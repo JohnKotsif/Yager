@@ -12,8 +12,8 @@ st.title('📤 Upload your cvs')
 
 
 # url τών παραδειγμάτων
-url1 = 'C:\\Users\\kotsifakis\\Desktop\\sreamlit\\Test Examples\Example1.xlsx'
-url4 = 'C:\\Users\\kotsifakis\\Desktop\\sreamlit\\Test Examples\Example3.1.xlsx'
+url1 = 'sreamlit/Test Examples/Example1.xlsx'
+url4 = 'sreamlit/Test Examples/Example3.1.xlsx'
 
 # Backround και css
 page_bg_img = f"""
