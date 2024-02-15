@@ -43,20 +43,20 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 
 
 #url of examples
-url1 = 'C:\\Users\\kotsifakis\\Desktop\\sreamlit\\Test Examples\Example1.xlsx'
-url2 = 'C:\\Users\\kotsifakis\\Desktop\\sreamlit\\Test Examples\Example1.1.xlsx'
-url3 = 'C:\\Users\\kotsifakis\\Desktop\\sreamlit\\Test Examples\Example2.xlsx'
-url4 = 'C:\\Users\\kotsifakis\\Desktop\\sreamlit\\Test Examples\Example3.xlsx'
-url5 = 'C:\\Users\\kotsifakis\\Desktop\\sreamlit\\Test Examples\Example3.1.xlsx'
-url6 = 'C:\\Users\\kotsifakis\\Desktop\\sreamlit\\Test Examples\Example4.xlsx'
+url1 = 'sreamlit/Test Examples/Example1.xlsx'
+url2 = 'sreamlit/Test Examples/Example1.1.xlsx'
+url3 = 'sreamlit/Test Examples/Example2.xlsx'
+url4 = 'sreamlit/Test Examples/Example3.xlsx'
+url5 = 'sreamlit/Test Examples/Example3.1.xlsx'
+url6 = 'sreamlit/Test Examples/Example4.xlsx'
 
 #url of results
-url7 = 'C:\\Users\\kotsifakis\\Desktop\\sreamlit\\Test Results\ExampleResult1.csv'
-url8 = 'C:\\Users\\kotsifakis\\Desktop\\sreamlit\\Test Results\\ExampleResult1.1.csv'
-url9 = 'C:\\Users\\kotsifakis\\Desktop\\sreamlit\\Test Results\\ExampleResult2.csv'
-url10 = 'C:\\Users\\kotsifakis\\Desktop\\sreamlit\\Test Results\\ExampleResult3.csv'
-url11 = 'C:\\Users\\kotsifakis\\Desktop\\sreamlit\\Test Results\\ExampleResult3.1.csv'
-url12 = 'C:\\Users\\kotsifakis\\Desktop\\sreamlit\\Test Results\\ExampleResult4.csv'
+url7 = 'sreamlit/Test Examples/Test Results/ExampleResult1.csv'
+url8 = 'sreamlit/Test Examples/Test Results/ExampleResult1.1.csv'
+url9 = 'sreamlit/Test Examples/Test Results/ExampleResult2.csv'
+url10 = 'sreamlit/Test Examples/Test Results/ExampleResult3.csv'
+url11 = 'sreamlit/Test Examples/Test Results/ExampleResult3.1.csv'
+url12 = 'sreamlit/Test Examples/Test Results/ExampleResult4.csv'
 
 # header 2 τιτλος 1. Απλός αργόριθμος Yager(Περιλαμβάνει input checks)
 st.markdown('## 1. Απλός αργόριθμος Yager(Περιλαμβάνει input checks)')
