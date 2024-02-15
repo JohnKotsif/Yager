@@ -51,7 +51,7 @@ with st.expander("Οδηγίες ενότητας 'Step by Step' "):
 
 # url τών παραδειγμάτων
 url1 = 'sreamlit/Test Examples/Example1.xlsx'
-url4 = 'https://github.com/JohnKotsif/Yager/sreamlit/Test Examples/Example3.1.xlsx'
+url4 = 'sreamlit/Test Examples/Example3.1.xlsx'
 
 a1 , a2 = st.columns(2)
 
