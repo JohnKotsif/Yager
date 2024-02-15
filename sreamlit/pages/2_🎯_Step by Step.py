@@ -50,7 +50,7 @@ with st.expander("Οδηγίες ενότητας 'Step by Step' "):
     st.write('Τα αποτελέσματα της τελικής λίστας κοινής διάταξης προτίμησης παρέχουν την επιλογή αποθήκευσης.')  
 
 # url τών παραδειγμάτων
-url1 = 'https://github.com/JohnKotsif/Yager/sreamlit/Test Examples/Example1.xlsx'
+url1 = 'sreamlit/Test Examples/Example1.xlsx'
 url4 = 'https://github.com/JohnKotsif/Yager/sreamlit/Test Examples/Example3.1.xlsx'
 
 a1 , a2 = st.columns(2)
