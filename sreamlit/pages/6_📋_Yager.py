@@ -35,6 +35,10 @@ visibility: hidden;
 visibility: hidden;
 }}
 
+[class="styles_terminalButton__JBj5T"] {{
+visibility: hidden;
+}}
+
 </style>
 """
 st.markdown(page_bg_img, unsafe_allow_html=True)
