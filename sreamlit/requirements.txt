@@ -4,5 +4,5 @@ fsspec==2024.2.0
 pipdeptree==2.13.2
 pipenv==2023.11.15
 PuLP==2.7.0
-pandas==2.2.0
+pandas==1.5.2
 streamlit==1.28.0
