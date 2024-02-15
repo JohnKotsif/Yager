@@ -51,12 +51,12 @@ url5 = 'sreamlit/Test Examples/Example3.1.xlsx'
 url6 = 'sreamlit/Test Examples/Example4.xlsx'
 
 #url of results
-url7 = 'sreamlit/Test Examples/Test Results/ExampleResult1.csv'
-url8 = 'sreamlit/Test Examples/Test Results/ExampleResult1.1.csv'
-url9 = 'sreamlit/Test Examples/Test Results/ExampleResult2.csv'
-url10 = 'sreamlit/Test Examples/Test Results/ExampleResult3.csv'
-url11 = 'sreamlit/Test Examples/Test Results/ExampleResult3.1.csv'
-url12 = 'sreamlit/Test Examples/Test Results/ExampleResult4.csv'
+url7 = 'sreamlit/Test Results/ExampleResult1.csv'
+url8 = 'sreamlit/Test Results/ExampleResult1.1.csv'
+url9 = 'sreamlit/Test Results/ExampleResult2.csv'
+url10 = 'sreamlit/Test Results/ExampleResult3.csv'
+url11 = 'sreamlit/Test Results/ExampleResult3.1.csv'
+url12 = 'sreamlit/Test Results/ExampleResult4.csv'
 
 # header 2 τιτλος 1. Απλός αργόριθμος Yager(Περιλαμβάνει input checks)
 st.markdown('## 1. Απλός αργόριθμος Yager(Περιλαμβάνει input checks)')
