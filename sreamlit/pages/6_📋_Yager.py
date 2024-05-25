@@ -63,13 +63,14 @@ with st.expander("Βήματα αλγορίθμου"):
   
 st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B5%CF%82/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B11.png?raw=true')    
 with st.expander("1. Απλός αργόριθμος Yager"): 
-
+  st.markdown('8. Εάν j = 0 τότε ΤΕΛΟΣ')
 
 st.markdown('## 2. Yager algorithm που περιλαμβάνει συνδυασμό ασθενών διατάξεων μεταξύ επιλογών (Fusing weak orderings) ')
 with st.expander(" 2. Yager algorithm που περιλαμβάνει συνδυασμό ασθενών διατάξεων μεταξύ επιλογών"):  
-  
+    st.markdown('8. Εάν j = 0 τότε ΤΕΛΟΣ')
 st.markdown('## 3. Yager algorithm που περιλαμβάνει συνδυασμό ασθενών διατάξεων μεταξύ πρακτόρων(Περιλαμβάνει input checks)')
 with st.expander(" 3. Yager algorithm που περιλαμβάνει συνδυασμό ασθενών διατάξεων μεταξύ πρακτόρων(Περιλαμβάνει input checks)"):
-  
+    st.markdown('8. Εάν j = 0 τότε ΤΕΛΟΣ')
 st.markdown('## 4. Yager algorithm που περιλαμβάνει συνδυασμό ασθενών διατάξεων μεταξύ επιλογών και πρακτόρων (Fusing weak orderings)')
 with st.expander(" 4. Yager algorithm που περιλαμβάνει συνδυασμό ασθενών διατάξεων μεταξύ επιλογών και πρακτόρων (Fusing weak orderings)"):
+  st.markdown('8. Εάν j = 0 τότε ΤΕΛΟΣ')
