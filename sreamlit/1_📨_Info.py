@@ -40,7 +40,7 @@ visibility: hidden;
 """
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
-st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/logo.jpg?raw=true')
+st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/logo.jpg?raw=true')
 
 
 st.markdown('# ΔΠΜΣ')
