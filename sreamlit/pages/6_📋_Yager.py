@@ -86,7 +86,7 @@ with st.expander(" 3. Yager algorithm που περιλαμβάνει συνδυ
   st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/Εικόνα6.png?raw=true')
   st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/Εικόνα7.png?raw=true')
   st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/Εικόνα8.png?raw=true')
-    st.markdown('8. Εάν j = 0 τότε ΤΕΛΟΣ')
+  st.markdown('8. Εάν j = 0 τότε ΤΕΛΟΣ')
   
 st.markdown('## 4. Yager algorithm που περιλαμβάνει συνδυασμό ασθενών διατάξεων μεταξύ επιλογών και πρακτόρων (Fusing weak orderings)')
 with st.expander(" 4. Yager algorithm που περιλαμβάνει συνδυασμό ασθενών διατάξεων μεταξύ επιλογών και πρακτόρων (Fusing weak orderings)"):
