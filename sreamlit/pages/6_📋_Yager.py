@@ -62,7 +62,7 @@ with st.expander("Βήματα αλγορίθμου"):
   st.markdown('10. Επιστρέφουμε στο βήμα 4')  
   
 with st.expander("1. Απλός αργόριθμος Yager"): 
-st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνα1.png?raw=true')  
+st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B5%CF%82/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B11.png?raw=true')  
 
 st.markdown('## 2. Yager algorithm που περιλαμβάνει συνδυασμό ασθενών διατάξεων μεταξύ επιλογών (Fusing weak orderings) ')
 with st.expander(" 2. Yager algorithm που περιλαμβάνει συνδυασμό ασθενών διατάξεων μεταξύ επιλογών"):  
