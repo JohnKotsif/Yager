@@ -61,7 +61,7 @@ with st.expander("Βήματα αλγορίθμου"):
   st.markdown('9. Εάν k ≠ m τότε θέτουμε k = k + 1 (ελέγχει τον αριθμό των αποφασιζόντων)Εάν k = m τότε θέτουμε k = 1 και i = i – 1 (Ο τελευταίος αποφασίζων)')
   st.markdown('10. Επιστρέφουμε στο βήμα 4')  
   
-st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B5%CF%82/%CE%95%CE%B9%CE%BA%CF%8C%CE%BD%CE%B11.png?raw=true')    
+st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/Εικόνα1.png?raw=true')    
 with st.expander("1. Απλός αργόριθμος Yager"): 
   st.markdown('8. Εάν j = 0 τότε ΤΕΛΟΣ')
 
