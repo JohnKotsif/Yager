@@ -61,16 +61,41 @@ with st.expander("Βήματα αλγορίθμου"):
   st.markdown('9. Εάν k ≠ m τότε θέτουμε k = k + 1 (ελέγχει τον αριθμό των αποφασιζόντων)Εάν k = m τότε θέτουμε k = 1 και i = i – 1 (Ο τελευταίος αποφασίζων)')
   st.markdown('10. Επιστρέφουμε στο βήμα 4')  
   
-st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/Εικόνα1.png?raw=true')    
-with st.expander("1. Απλός αργόριθμος Yager"): 
-  st.markdown('8. Εάν j = 0 τότε ΤΕΛΟΣ')
+    
+with st.expander("1. Απλός αλγόριθμος Yager"):  
+  st.markdown('Ο αλγόριθμος ξεκινάει με τη λιγότερο προτιμώμενη λύση, σύμφωνα με την πιο σημαντική 
+  συνάρτηση προτίμησης (σημαντικότερος αποφασίζων) και την τοποθετεί στο τέλος της συνάρτησης προτίμησης P. 
+  Στη συνέχεια, μεταβαίνει στη δεύτερη πιο σημαντική συνάρτηση προτίμησης (επόμενος πιο σημαντικός αποφασίζων). ')
+  
+  st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/Εικόνα1.png?raw=true')  
 
+  
+  st.markdown('Εάν το λιγότερο προτιμώμενο στοιχείο του σημαντικότερου αποφασίζων δεν έχει ήδη τοποθετηθεί στην λίστα Ρ, 
+  τότε το τοποθετεί στην επόμενη χαμηλότερη θέση (στην κορυφή της τρέχουσας P), εάν όμως έχει ήδη τοποθετηθεί στην Ρ τότε παραλείπει 
+  αυτή τη συνάρτηση προτίμησης και μεταβαίνει στην επόμενη πιο σημαντική συνάρτηση προτίμησης.')
+  st.markdown('Συνεχίζει με αυτόν τον τρόπο για όλες τις συναρτήσεις προτίμησης, κάνοντας περάσματα και μετακινώντας 
+  τις συναρτήσεις προτίμησης. Ο αλγόριθμος αυτός σταματά, όταν τελικά όλα τα στοιχεία τοποθετούνται στην λίστα Ρ, δηλαδή όταν η λίστα S δεν έχει άλλα στοιχεία.')  
+  
+  st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/Εικόνα2.png?raw=true') 
+
+  
 st.markdown('## 2. Yager algorithm που περιλαμβάνει συνδυασμό ασθενών διατάξεων μεταξύ επιλογών (Fusing weak orderings) ')
 with st.expander(" 2. Yager algorithm που περιλαμβάνει συνδυασμό ασθενών διατάξεων μεταξύ επιλογών"):  
-    st.markdown('8. Εάν j = 0 τότε ΤΕΛΟΣ')
+  st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/Εικόνα3.png?raw=true')
+  st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/Εικόνα4.png?raw=true')
+  st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/Εικόνα5.png?raw=true')
+  st.markdown('8. Εάν j = 0 τότε ΤΕΛΟΣ')
+  
 st.markdown('## 3. Yager algorithm που περιλαμβάνει συνδυασμό ασθενών διατάξεων μεταξύ πρακτόρων(Περιλαμβάνει input checks)')
 with st.expander(" 3. Yager algorithm που περιλαμβάνει συνδυασμό ασθενών διατάξεων μεταξύ πρακτόρων(Περιλαμβάνει input checks)"):
+  st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/Εικόνα6.png?raw=true')
+  st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/Εικόνα7.png?raw=true')
+  st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/Εικόνα8.png?raw=true')
     st.markdown('8. Εάν j = 0 τότε ΤΕΛΟΣ')
+  
 st.markdown('## 4. Yager algorithm που περιλαμβάνει συνδυασμό ασθενών διατάξεων μεταξύ επιλογών και πρακτόρων (Fusing weak orderings)')
 with st.expander(" 4. Yager algorithm που περιλαμβάνει συνδυασμό ασθενών διατάξεων μεταξύ επιλογών και πρακτόρων (Fusing weak orderings)"):
+  st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/Εικόνα9.png?raw=true')
+  st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/Εικόνα10.png?raw=true')
+  st.image('https://github.com/JohnKotsif/Yager/blob/main/sreamlit/Εικόνες/Εικόνα11.png?raw=true')
   st.markdown('8. Εάν j = 0 τότε ΤΕΛΟΣ')
