@@ -1,4 +1,4 @@
-eimport streamlit as st
+import streamlit as st
 import pandas as pd
 
 # Ανάπτυξη διαδικτυακού συστήματος υποστήριξης ομαδικών αποφάσεων με χρήση του αλγόριθμου Yager
